@@ -9,3 +9,4 @@ omit =
     */python?.?/*
     */site-packages/*
     */pypy/*
+    coucou
